@@ -3,7 +3,7 @@ A small OpenGL program that draws 5 different objects and allows you to stop/sta
 
 Here is how to use the program (and translation, since the interface is written in Romanian, it was an old college homework):
 
-1. To run the .exe (unless you compile the program yourself) you need to have the glut32.dll in the folder with the executable. I provided the newwest version.
+1. To run the .exe (unless you compile the program yourself) you need to have the glut32.dll in the folder with the executable. I provided the newest version.
 
 2.You will see a window with white background and 5 objects.
 
